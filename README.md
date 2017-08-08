@@ -2,7 +2,8 @@
 
 #### we using npm modules to make a request from a node server to another server [request](https://www.npmjs.com/package/request)<br>
 <br>
-![install](https://nodei.co/npm/request.png)<br>
+
+![Image of install](https://nodei.co/npm/request.png)
 
 #### Using a module of your choice, create a node server which makes a request to an online API [GIPHY](https://developers.giphy.com/docs/)
 
