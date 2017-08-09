@@ -19,7 +19,7 @@ function handleHomeRoute(req, res) {
                     //console.log(data.toString());
                     //console.log('mdmdmdd');
                     console.log(body);
-                    res.end(body);
+                    res.end(`<img src=\'${body}\' height=\'300\' width=\'500\'/>`);
                 })
         }
     });
